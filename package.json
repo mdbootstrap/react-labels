@@ -1,8 +1,13 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
+  "name": "@mdbootstrap/react-labels",
+  "version": "1.0.0",
   "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/labels/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-labels.git"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +24,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "jsx",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
