@@ -1,7 +1,7 @@
 {
   "name": "@mdbootstrap/react-labels",
   "version": "1.0.0",
-  "description": "template for mdb-react-ui-kit",
+  "description": "Responsive React Labels built with Bootstrap 5. Badge Labels are for counters, categories & tags. Floating labels refer to forms, and slider labels to the range.",
   "private": false,
   "homepage": "https://mdbootstrap.com/docs/react/extended/labels/",
   "repository": {
